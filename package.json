@@ -2,7 +2,7 @@
   "name": "react_app",
   "version": "0.1.0",
   "private": true,
-  "homeoage": "https://loneamarok.github.io/classic-pokedex-website",
+  "homepage": "https://loneamarok.github.io/classic-pokedex-website",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
