@@ -58,6 +58,7 @@ class App extends Component {
     )
     return (
       <div className="App">
+        <h1 className="title">Pokedex</h1>
         <SearchBox placeholder='pokemon name' handleChange={this.handleChange}/>
         <CardList pokemon={filtered_pokemon}>
         </CardList>
